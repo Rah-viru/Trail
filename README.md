@@ -50,10 +50,10 @@ It is located at Karmanpur, Bairiya, Ballia, Uttar Pradesh.
 
 <form>
 <label for="name"> Name : </label>
-<input type="text" id="name" name="name" required> <br>
+<input type="text" id="name" required> <br>
 
 <label for="email"> Email : </label>
-<input type="email" id="email" name="email" required> <br>
+<input type="email" id="email" required> <br>
 
 <button type="submit" value="submit"> Submit </button>
 
