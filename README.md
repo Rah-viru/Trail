@@ -5,7 +5,7 @@
 <style>
 h1 {background-color: red; color: yellow;}
 .main { background-color: grey; text-align: center;}
-
+.tag { padding: 0; margin: 0; }
 </style>
 
 </head>
@@ -15,7 +15,7 @@ h1 {background-color: red; color: yellow;}
  <h1 class='head'> WELCOME TO A & P CONSTRUCTIONS </h1>
 <p> build the future, restoring the past🤗 </p>
 
-<nav>
+<nav class='tag'>
 <a href='#About'> About Us </a>
 <a href='#Services'> Services </a>
 <a href='#Team'> Team </a>
