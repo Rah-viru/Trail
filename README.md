@@ -18,7 +18,7 @@
 <p> build the future, restoring the past🤗 </p>
 
 <nav>
-<a href='#About'> About Us </a>
+<a href='#About'> about Us </a>
 <a href='#Services'> Services </a>
 <a href='#Team'> Team </a>
 <a href='#Contact'> Contact </a>
