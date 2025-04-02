@@ -3,9 +3,8 @@
 <head> 
 <title> A & P Constructions </title>
 <style>
-body { 
-       background-color: #f0f0f0;
-       align: center;
+body{ background-color: #f0f0f0;
+      align: center;
 
 }
 
