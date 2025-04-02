@@ -13,7 +13,7 @@ h1 {background-color: skyblue; color: yellow;}
 <body>
 <div class='main'>
  <h1 class='head'> WELCOME TO A & P CONSTRUCTIONS </h1>
-<p> build the future, restoring the past🤗 </p>
+ Build the future, Restoring the past🤗
 
 <nav class='tag'>
 <a href='#About'> About Us </a>
