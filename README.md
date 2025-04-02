@@ -43,7 +43,7 @@ It is located at Karmanpur, Bairiya, Ballia, Uttar Pradesh.
 <li> Rohit Sharma (Graphic designer) </li>
 </ul>
 
-<h1 id='Contact Us'> Contact Us </h1>
+<h1 id='Contact'> Contact Us </h1>
 
 <h3> Phone number: +91 9161265807 </h3>
 <h3> Email: therohitsharma910@gmail.com  </h3>
