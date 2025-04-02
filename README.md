@@ -8,7 +8,7 @@ h1 {
    color: yellow;
 }
 
-</style>
+
 
 </head>
 
@@ -64,5 +64,6 @@ EMAIL: <input type='email'> <br>
 </form>
 
 </div>
+</style>
 </body>
 </html>
