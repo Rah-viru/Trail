@@ -12,9 +12,9 @@
 
 <nav>
 <a href='#About'> About Us </a>
-<a href='Services'> Services </a>
-<a href='Team'> Team </a>
-<a href='Contact'> Contact </a>
+<a href='#Services'> Services </a>
+<a href='#Team'> Team </a>
+<a href='#Contact'> Contact </a>
 </nav>
 
 <h1 class='container' id='About'> About Us </h1>
