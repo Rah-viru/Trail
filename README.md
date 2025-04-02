@@ -3,7 +3,11 @@
 <head> 
 <title> A & P Constructions </title>
 <style>
-body{ background-color:#f0f0f0;align: center;}
+* { 
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box
+}
 
 </style>
 
