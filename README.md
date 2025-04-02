@@ -53,8 +53,8 @@ It is located at Karmanpur, Bairiya, Ballia, Uttar Pradesh.
 
 <h1 id='Contact'> Contact Us </h1>
 
-<h3> Phone number: +91 9161265807 </h3>
-<h3> Email: <a href='therohitsharma910@gmail.com'> therohitsharma910@gmail.com </a> </h3>
+<h3> Phone number: +91 <a href='number'> 9161265807 </a> </h3>
+<h3> Email: <a href='email'> therohitsharma910@gmail.com </a> </h3>
 
 <form action='submit.php'>
 
