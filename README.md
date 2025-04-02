@@ -3,10 +3,10 @@
 <head> 
 <title> A & P Constructions </title>
 <style>
-* { 
+.head { 
    margin: 0;
    padding: 0;
-   box-sizing: border-box
+   text-color: red;
 }
 
 </style>
