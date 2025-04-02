@@ -4,7 +4,7 @@
 <title> A & P Constructions </title>
 <style>
 h1 {background-color: red; color: yellow;}
-.head { background-color: grey; text-align: center;}
+.main { background-color: grey; text-align: center;}
 
 </style>
 
