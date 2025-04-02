@@ -2,11 +2,18 @@
 
 <head> 
 <title> A & P Constructions </title>
+<style>
+.main { 
+       url:/storage/emulated/0/Download/images.jpeg
+
+}
+
+</style>
 
 </head>
 
 <body>
-  
+<div class='main'>
  <h1> WELCOME TO A & P CONSTRUCTIONS </h1>
 <p> build the future, restoring the past🤗 </p>
 
@@ -56,6 +63,6 @@ EMAIL: <input type='email'> <br>
 
 </form>
 
-
+</div>
 </body>
 </html>
