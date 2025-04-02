@@ -5,7 +5,7 @@
 <style>
 h1 {background-color: skyblue; color: yellow;}
 .main { background-color: grey; text-align: center;}
-.tag { padding: 0; margin: 0; }
+.tag { padding: 40; margin: 30; }
 </style>
 
 </head>
@@ -14,7 +14,7 @@ h1 {background-color: skyblue; color: yellow;}
 <div class='main'>
  <h1 class='head'> WELCOME TO A & P CONSTRUCTIONS </h1>
  Build the future, Restoring the past🤗
-
+</div>
 <nav class='tag'>
 <a href='#About'> About Us </a>
 <a href='#Services'> Services </a>
@@ -61,7 +61,7 @@ EMAIL: <input type='email'> <br>
 
 </form>
 
-</div>
+
 
 </body>
 </html>
