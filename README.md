@@ -10,26 +10,48 @@
  <h1> WELCOME TO A & P CONSTRUCTIONS </h1>
 <p> build the future, restoring the past🤗 </p>
 
+
 <a href='about us'> About Us </a>
 <a href='services'> Services </a>
-<a href='projects'> Projects</a>
+<a href='Team'> Team </a>
 <a href='contact'> Contact </a>
 
 <h1> About Us </h1>
 <p> A & P CONSTRUCTIONS is a partnership business, it build your dream and makes your life easier. we build the quality not the quantity,costumer satisfaction is our happiness 😊. We specialise in high-quality construction projects, ensuring durability and excellence.
+<b> What makes A & P constructions different? </b>
+<p> we build people dreams at a cheap price we are here to make your life happy & safe with a strong protective Home.
 <br>
 It is located at Karmanpur, Bairiya, Ballia, Uttar Pradesh.
 
 <br>
 <h1> Our Services </h1>
 <ul>
-<li> Residential & Commercial construction </li>
+<li> <b> Residential </b> (Houses, Villas, Apartments) </li>
+<li> <b> Commercial construction </b> (Official, Malls, Warehouses) </li>
 <li> Infrastructure Development </li>
-<li> Renovation & Remodeling </li>
-<li> Road & Bridge Construction </li>
-<li> Interior Designing </li>
+<li> <b> Renovation & Remodeling </b> (Home, Improvement, Remodeling) </li>
+<li> <b> Road & Bridge Construction </b> (Roads, Drainage, Fencing, Bridge) </li>
+<li> <b> Interior Designing </b> (Decorate interior home and office) </li>
 
 </ul>
+
+<h1> Team </h1>
+
+<ul>
+<li> Kaushal Maurya (Civil Engineer) </li>
+<li> Rohit Sharma (Graphic designer) </li>
+</ul>
+
+<h1> Contact Us </h1>
+
+<h3> Phone number: +91 9161265807 </h3>
+<h3> Email: therohitsharma910@gmail.com  </h3>
+
+<form>
+<input type="text"> </input>
+<input type="number"> </input>
+</form>
+
 
 </body>
 </html>
