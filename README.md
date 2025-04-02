@@ -3,10 +3,9 @@
 <head> 
 <title> A & P Constructions </title>
 <style>
-.head { 
-   margin: 0;
-   padding: 0;
-   text-color: red;
+h1 {
+   background-color: red;
+   color: yellow;
 }
 
 </style>
