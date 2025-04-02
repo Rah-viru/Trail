@@ -22,6 +22,14 @@ It is located at Karmanpur, Bairiya, Ballia, Uttar Pradesh.
 
 <br>
 <h1> Our Services <h1>
+<ul>
+<li> Residential & Commercial construction </li>
+<li> Infrastructure Development </li>
+<li> Renovation & Remodeling </li>
+<li> Road & Bridge Construction </li>
+<li> Interior Designing </li>
+
+</ul>
 
 </body>
 </html>
