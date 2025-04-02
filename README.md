@@ -3,12 +3,9 @@
 <head> 
 <title> A & P Constructions </title>
 <style>
-h1 {
-   background-color: red;
-   color: yellow;
-}
+h1 {background-color: red; color: yellow;}
 
-
+</style>
 
 </head>
 
@@ -64,6 +61,6 @@ EMAIL: <input type='email'> <br>
 </form>
 
 </div>
-</style>
+
 </body>
 </html>
