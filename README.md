@@ -49,6 +49,7 @@ It is located at Karmanpur, Bairiya, Ballia, Uttar Pradesh.
 <h3> Email: therohitsharma910@gmail.com  </h3>
 
 <form>
+<input type="text" name="username" placeholder="Enter your username">
 <label for="name"> Name : </label>
 <input type="text" id="name" required> <br>
 
@@ -59,18 +60,6 @@ It is located at Karmanpur, Bairiya, Ballia, Uttar Pradesh.
 
 </form>
 
-<form>
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name" required> </input><br>
-        
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required><br>
-        
-        <label for="message">Message:</label>
-        <textarea id="message" name="message" required></textarea><br>
-        
-        <button type="submit">Submit</button>
-</form>
 
 </body>
 </html>
