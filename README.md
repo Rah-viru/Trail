@@ -10,13 +10,14 @@
  <h1> WELCOME TO A & P CONSTRUCTIONS </h1>
 <p> build the future, restoring the past🤗 </p>
 
-
-<a href='About Us'> About Us </a>
+<nav>
+<a href='About'> About Us </a>
 <a href='Services'> Services </a>
 <a href='Team'> Team </a>
 <a href='Contact'> Contact </a>
+</nav>
 
-<h1> About Us </h1>
+<h1 id='About'> About Us </h1>
 <p> A & P CONSTRUCTIONS is a partnership business, it build your dream and makes your life easier. we build the quality not the quantity,costumer satisfaction is our happiness 😊. We specialise in high-quality construction projects, ensuring durability and excellence.
 <br>
 <b> What makes A & P constructions different? </b>
