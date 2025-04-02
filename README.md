@@ -3,7 +3,8 @@
 <head> 
 <title> A & P Constructions </title>
 <style>
-.head { 
+body { 
+       background-color: #f0f0f0;
        align: center;
 
 }
