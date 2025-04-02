@@ -19,9 +19,9 @@
 
 <h1 class='container' id='About'> About Us </h1>
 <p> A & P CONSTRUCTIONS is a partnership business, it build your dream and makes your life easier. we build the quality not the quantity,costumer satisfaction is our happiness 😊. We specialise in high-quality construction projects, ensuring durability and excellence.
-<p>
-<b> What makes A & P constructions different? </b> </p>
-<br> we build people dreams at a cheap price we are here to make your life happy & safe with a strong protective Home.
+
+<h5> What makes A & P constructions different? </h5>
+<p> we build people dreams at a cheap price we are here to make your life happy & safe with a strong protective Home. </p>
 <br>
 It is located at Karmanpur, Bairiya, Ballia, Uttar Pradesh.
 
