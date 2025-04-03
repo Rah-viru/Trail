@@ -5,7 +5,7 @@
 <style>
 h1 {background-color: skyblue; color: yellow;}
 .main { background-color: grey; text-align: center;}
-.tag { padding: 40; margin: 30; }
+.tag { padding: 0; margin: 0; }
 </style>
 
 </head>
